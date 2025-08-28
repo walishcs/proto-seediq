@@ -100,7 +100,7 @@ function App() {
     const loadDataCSV = async () => {
       try {
         setLoading(true);
-        const response = await fetch('/data.csv');
+        const response = await fetch(`${import.meta.env.BASE_URL}data.csv`);
         if (!response.ok) {
           throw new Error('無法載入 data.csv 檔案');
         }
