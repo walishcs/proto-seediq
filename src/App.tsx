@@ -234,14 +234,42 @@ function App() {
             </Stack>
           ) : csvData ? (
             <Stack gap="md" h="100%">
-              <Text size="lg" fw={500}>
-                共 {filteredData?.rows.length || 0} 筆資料
+              <Group gap="xs" wrap="nowrap">
+                <Text size="lg" fw={500} style={{ whiteSpace: 'nowrap' }}>
+                  共
+                </Text>
+                <Text 
+                  size="lg" 
+                  fw={500} 
+                  style={{ 
+                    minWidth: '35px', 
+                    textAlign: 'center',
+                    fontVariantNumeric: 'tabular-nums'
+                  }}
+                >
+                  {filteredData?.rows.length || 0}
+                </Text>
+                <Text size="lg" fw={500} style={{ whiteSpace: 'nowrap' }}>
+                  筆資料
+                </Text>
                 {csvData && filteredData && csvData.rows.length !== filteredData.rows.length && (
-                  <Text component="span" size="sm" c="dimmed">
-                    {' '}(從 {csvData.rows.length} 筆中篩選)
+                  <Text size="sm" c="dimmed" style={{ whiteSpace: 'nowrap' }}>
+                    (從 
+                    <Text 
+                      component="span" 
+                      style={{ 
+                        fontVariantNumeric: 'tabular-nums',
+                        minWidth: '30px',
+                        textAlign: 'center',
+                        display: 'inline-block'
+                      }}
+                    >
+                      {csvData.rows.length}
+                    </Text>
+                    {' '}筆中篩選)
                   </Text>
                 )}
-              </Text>
+              </Group>
 
               {filteredData && (
                 <DataTable 
@@ -259,7 +287,7 @@ function App() {
       <AppShell.Footer>
         <Center h="100%" px="md">
           <Text size="sm" c="dimmed" ta="center">
-            資料來源：Song, Walis Hian-chi. 2025.{' '}
+            資料來源：Song, Walis Hian-chi (宋硯之). 2025.{' '}
             <Anchor 
               href="https://etd.lib.nthu.edu.tw/detail/fa694e1976fa46ac5a6073d0dacc4117/" 
               target="_blank"

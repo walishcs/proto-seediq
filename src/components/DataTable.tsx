@@ -77,7 +77,10 @@ export function DataTable({ data, onSort, sortConfig, onSearch }: DataTableProps
         {rows.map((row, rowIndex) => (
           <Table.Tr key={rowIndex}>
             {headers.map((_, colIndex) => (
-              <Table.Td key={colIndex}>
+              <Table.Td key={colIndex} style={{ 
+                width: headers[colIndex] === 'Gloss' ? '40%' : `${60 / (headers.length - 1)}%`,
+                minWidth: headers[colIndex] === 'Gloss' ? 300 : 120 
+              }}>
                 <Text size="sm" style={{ wordBreak: 'break-word' }}>
                   {row[colIndex] || ''}
                 </Text>
@@ -89,6 +92,44 @@ export function DataTable({ data, onSort, sortConfig, onSearch }: DataTableProps
     );
   }, [rows, headers]);
 
+  const getColumnStyle = (index: number) => {
+    const columnName = headers[index];
+    if (columnName === 'Gloss') {
+      // Gloss 欄位佔用更多寬度
+      return { 
+        minWidth: 300, 
+        width: '25%',
+        paddingBottom: 8 
+      };
+    } else {
+      // 其他欄位平均分配剩餘寬度
+      return { 
+        minWidth: 120, 
+        width: `${60 / (headers.length - 1)}%`,
+        paddingBottom: 8 
+      };
+    }
+  };
+
+  const getSearchColumnStyle = (index: number) => {
+    const columnName = headers[index];
+    if (columnName === 'Gloss') {
+      return { 
+        minWidth: 300, 
+        width: '40%',
+        paddingTop: 0, 
+        paddingBottom: 8 
+      };
+    } else {
+      return { 
+        minWidth: 120, 
+        width: `${60 / (headers.length - 1)}%`,
+        paddingTop: 0, 
+        paddingBottom: 8 
+      };
+    }
+  };
+
   return (
     <Box style={{ flex: 1, minHeight: 0 }}>
       <ScrollArea h="100%" type="auto">
@@ -97,7 +138,8 @@ export function DataTable({ data, onSort, sortConfig, onSearch }: DataTableProps
           withTableBorder
           withColumnBorders
           style={{
-            minWidth: Math.max(headers.length * 150, 800),
+            minWidth: 1000,
+            tableLayout: 'fixed',
           }}
         >
           <Table.Thead
@@ -111,7 +153,7 @@ export function DataTable({ data, onSort, sortConfig, onSearch }: DataTableProps
             {/* 標題列 */}
             <Table.Tr>
               {headers.map((header, index) => (
-                <Table.Th key={index} style={{ minWidth: 150, paddingBottom: 8 }}>
+                <Table.Th key={index} style={getColumnStyle(index)}>
                   {isSortable(index) ? (
                     <Group gap="xs" justify="space-between" wrap="nowrap">
                       <Text fw={600} size="sm" style={{ flex: 1 }}>
@@ -138,7 +180,7 @@ export function DataTable({ data, onSort, sortConfig, onSearch }: DataTableProps
             {/* 搜尋列 */}
             <Table.Tr>
               {headers.map((header, index) => (
-                <Table.Th key={`search-${index}`} style={{ minWidth: 150, paddingTop: 0, paddingBottom: 8 }}>
+                <Table.Th key={`search-${index}`} style={getSearchColumnStyle(index)}>
                   <TextInput
                     placeholder={`搜尋 ${header}`}
                     value={searchTerms[index] || ''}
