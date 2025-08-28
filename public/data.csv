@@ -1,0 +1,680 @@
+Gloss,Proto-Seediq,Tgdaya,Proto-Toda-Truku,Central Toda,Proto-Truku,Central Truku,Eastern Truku 
+`\textsc{1pl.excl}',*yami,yami,*yami,yami,*yami,yami,yami
+`\textsc{1pl.incl}',*ita,ita,*ita,ita,*ita,ita,ita
+`\textsc{1pl.nom.excl; 1pl.gen.excl}',*=nami,=nami,*=nami,=nami,*=nami,=nami,=nami
+`\textsc{1pl.nom.incl; 1pl.gen.incl}',*=ta,=ta,*=ta,=ta,*=ta,=ta,=ta
+`\textsc{1pl.obl.excl}',*mənan,,*mənan,mənan,*mənan,mənan,mənan
+`\textsc{1pl.obl.incl}',*tənan,,*tənan,tənan,*tənan,tənan,tənan
+`\textsc{1sg.gen}',*=mu,=mu,*=mu,=mu,*=mu,=mu,=mu
+`\textsc{1sg.nom}',*=ku,=ku,*=ku,=ku,*=ku,=ku,=ku
+`\textsc{1sg.nom}',*yaku,yaku,*yaku,yaku,*yaku,yaku,yaku
+`\textsc{1sg.obl}',*kənan,kenan,*kənan,kənan,*kənan,kənan,kənan
+`\textsc{2pl.nom; 2pl.gen}',*=namu,=namu,*=namu,=namu,*=namu,=namu,=namu
+`\textsc{2pl.nom}',*yamu,yamu,*yamu,yamu,*yamu,yamu,yamu
+`\textsc{2pl.obl}',*munan,munan `1sg.obl',*munan,munan,*munan,munan,munan
+`\textsc{2sg.nom; 2sg.gen}',*=su,=su,*=su,=su,*=su,=su,=su
+`\textsc{2sg.nom}',*isu,isu,*isu,isu,*isu,isu,isu
+`\textsc{2sg.obl}',*sunan,sunan,*sunan,sunan,*sunan,sunan,sunan
+`\textsc{3pl.gen}',*=dəha,=daha,*=dəha,=dəha,*=dəha,=dəha,=dəha
+`\textsc{3pl.nom}',*dəhəya,deheya,*dəhiya,dəhiya,*dəhiya,dəhiya,dəhiya
+`\textsc{3pl.obl}',*dəhəyaan,,*dəhəyaan,dəhəyaan,*dəhəyaan,dəhəyaan,dəhəyaan
+`\textsc{3sg.gen}',*=na,=na,*=na,=na,*=na,=na,=na
+`\textsc{3sg.nom}',*hiya,heya,*hiya,hiya,*hiya,hiya,hiya
+`\textsc{3sg.obl}',*həyaan,,*həyaan,həyaan,*həyaan,həyaan,həyaan
+`a bit; a little',*tikuh,tikuh,*tikuh,tikuh,*cikuh,cikuh,
+`a few; some',*duma,duma,*duma,duma,*duma,duma,duma
+`a long time',*bəsiyaq,busiyaq,*bəsiyaq,bəsiyaq,*bəsiyaq,bəsiyaq,bəsiyaq
+`above; on top of',*babaw,bobo,*babaw,babaw,*babaw,babaw,babaw
+`above; on top of',*baraw,baro,*baraw,baraw,*baraw,baraw,baraw
+`alive',*məudus,muudus,*məudus,mudus,*məudus,mudus,məudus
+`all',*kana,kana,*kana,kana,*kana,kana,kana
+`Alocasia',*bərayaw,burayo,*bərayaw,bərayaw,*bərayaw,bərayaw,bərayaw
+`alone; only; self',*nanak,nanaq,*nanak,nanak; nanaq,*nanak,nanaq,nanak
+`animal foot',*papak,papak,*papak,papak,*papak,papak,papak
+`animal trail',*tuqir,tuqin,*tuqir,tuqar,*tuqir,tuqir,tuqir
+`animal; wild game',*camat,camac,*camat,camac,*samat,samac,samat
+`arrow',*raqit,raqic,*raqit,raqic,,,
+`ashes',*qəbulit,qubulic,*qəbulit,qəbulic,*qəbulit,qəbulic,qəbulit
+`assorted; many kinds of',*ləməlamu,mululamu,*ləməlamu,ləməlamu,*mələlamu,mələlamu,ləməlamu
+`axe',*puru,puru,*puru,puru,*pupu,pupu,pupu
+`bad',*naqih,naqah,*naqih,naqah,*naqih,naqih,naqih
+`bamboo shoots',*ləxi,lexi,*ləxi,ləxi,*ləxi,ləxi,ləxi
+`bamboo tool for removing bark for ramie',*gəsak,gesak,*gəsak,usak,*gəsak,gisak,gəsak
+`banana',*bələbul,bulebun,*bələbul,bələbul,*bələbul,bələbul,bələbul
+`basket',*rawa,rawa,*rawa,rawa,*rawa,rawa,rawa
+`beans',*bayluh,beluh,*bayluh,beyluh,*bayluh,beyluh,beyluh
+`bear',*sumay,sume,*kumay,kumay,*kumay,kumay,kumay
+`beard; facial hair',*ŋudus,ŋudus,*ŋudus,,*ŋudus,,ŋudus
+`belly',*nəbuyas,nubuyas,*nəbuyas,nəbuyas,*nəbuyas,buyas,nəbuyas
+`between',*cəkəcəka,cukuceka,*cəkəcəka,cəkəcəka,*səka,səka,səka
+`big',*paru,paru,*paru,paru,*paru,paru,paru
+`bird',*qəbəhəni,qubeheni,*qəbəhəni,qəbəhəni,*qəbəhəni,qəbəhəni,qəbəhəni
+`bird',,,*qəduda,qəduda,*qəduda,qəduda,
+`black',*məqalux,muqalux,*məqalux,məqalux,*məqalux,məqalux,məqalux
+`blind',*məpudu,mubudu,*məpudu,məpudu,*məpudu,məpudu,(məətuŋ)
+`blood',*dara,dara,*dara,dara,*dara,dara,dara
+`blowfly',*raŋaw,ruŋedi raŋo,*raŋaw,raŋaw,,,
+`boar',*bawyak,boyak,*bawyak,bowyak,*bawyak,bowyak,bowyak
+`board; plank',*qətinuh,qutinuh,*qətinuh,qətinuh,*qəcinuh,qəcinuh,qəcinuh
+`body louse',*cumiq,cumiq,*cumiq,,*sumiq,,sumiq
+`bone',*buut,buuc,*buut,,*buut,,buut
+`border; line',*ayus,ayus,*ayus,ayus,*ayus,ayus,ayus
+`bow and arrow',*budi,budi,*budi,budi,*buɟi,buɟi,buɟi
+`bow',*bəhəniq,beheniq,*bəhəniq,bəhəniq,*bəhəniq,bəhəniq,bəhəniq
+`box; trunk',*kulu,kulu,*kulu,,*kulu,kulu,kulu
+`breasts',*nunuh,nunuh,*nunuh,nunuh,*unuh,unuh,unuh
+`bridge',*hakaw,hako,*hakaw,hakaw,*hakaw,hakaw,hakaw
+`bright; beautiful; smooth',*mədəhəriq,mudeheriq,*mədəhəriq,mədəhəriq,*mədəhəriq,mədəhəriq,mədəhəriq
+`broad; wide',*gəlabaŋ,,*ləlabaŋ,ləlabaŋ,*ləlabaŋ,ləlabaŋ,ləlabaŋ
+`broad; wide',*gəlahaŋ,gulahaŋ,,,,,
+`broken; spoiled; rotten; gooey',*məsətəmaq,musutemaq,*məsətəmaq,sətəmaq,*məsətəmaq,,məsətəmaq
+`buck; bull',*balas,balas,*balas,balas,*balas,balas,balas `to mate'
+`camphor tree',*cakus,cakus,*cakus,cakus,*sakus,sakus,sakus
+`cane',*hukut,hukuc,*hukut,hukuc,*hukut,hukuc,hukut
+`canine; fang',*waqit,waqic,*waqit,waqic,*waqit,waqic,waqit
+`centipede',*pəsigak,pusirak,*pəsigak,,*pəsigak,,pəsigak
+`charcoal',*bagah,bagah,*bagah,bawah,*bagah,bagah,(baŋah)
+`cherry blossoms',*sənəgil,sunegin,*sənəgil,sənuwil,*sənəgil,sənəgil,sənəgil
+`chest cover',*tawrah,torah,*tawrah,towrah,*tawrah,towrah,towrah
+`chest',*bərah,berah `front',*bərah,bərah,*bərah,bərah,bərah
+`chicken coop',*kadu,kadu,*kadu,kadu,*kadu,kadu,kadu
+`chicken',*rawdux,rodux,*rawdux,rowdux,*rudux,rudux,rudux
+`child',*laqi,laqi,*laqi,laqi,*laqi,laqi,laqi
+`chili',*ucik,ucik,*ucik,ucik,*usik,usik,usik
+`Chinese Moccasin',*mələhay,mulehe,*mələhay,ləməhay,*mələhay,mələhay,mələhay
+`close; near',*dalih,,*dalih,dalih,*dalih,dalih,dalih
+`close; near',*daliŋ,daliŋ,,,,,
+`cloth bag',*lubuy,lubuy,*lubuy,lubuy,*lubuy,lubuy,lubuy
+`cloth',*pala,pala,*pala,pala,*pala,pala,pala
+`clothes',*lukus,lukus,*lukus,lukus,*lukus,lukus,lukus
+`clouds; fog',*ruluŋ,,*ruluŋ,ruluŋ,*ruluŋ,ruluŋ,ruluŋ
+`cold (thing)',*tələətu,tuleetu,*tələətu,tələtu,*tələətu,tələtu,mətələətu
+`cold (weather)',*məsəkuy,musekuy,*məsəkuy,məsəkuy,*məsəkuy,məsəkuy,məsəkuy
+`cooked (not raw)',*məhada,mahada,*məhada,məhada,*məhada,məhada,məhada
+`cooked rice',*idaw,ido,*idaw,idaw,*idaw,idaw,idaw
+`corn; maize',*sərəqəmu,suruqemu,*səqəmu,(ləhəŋay),*səqəmu,səqəmu,səqəmu
+`cow; bull; cattle',*dapa,dapa,*dapa,dapa,*dapa,dapa,(kaciŋ)
+`crab',*karaŋ,karaŋ,*karaŋ,kəraraŋ,*kəmaraŋ,kəmaraŋ,karaŋ
+`crack; hole',*bəliŋ,beliŋ,*bəliŋ,bəliŋ,*bəliŋ,bəliŋ,bəliŋ
+`crooked; diagonal',*məridih,muridih,,,,,
+`crooked; diagonal',*məridil,muridin,*məridil,məridil,*məriɟil,məriɟil,məriɟil
+`crow',*təyaquŋ,tuyaquŋ,*təyaquŋ,tiyaquŋ,*ciyaquŋ,ciyaquŋ,ciyaquŋ
+`culture; law',*gaya,gaya,*gaya,waya,*gaya,gaya,gaya
+`dark',*mənəkuuŋ,munukuuŋ,*mənəkuuŋ,mənəkuuŋ,*mənəkuuŋ,mənəkuuŋ,mənəkuuŋ
+`daughter-in-law',*ina,ina,*ina,ina,*ina,ina,ina
+`day; time',*ali,ali,*diyax,diyax,*ɟiyax,ɟiyax,ɟiyax
+`daytime',*diyan,diyan,*diyan,diyan,*ɟiyan,ɟiyan,ɟiyan
+`descendants; offspring',*lutut,lutuc,*lutut,lutuc,*lutut,lutuc,lutut
+`diligent',*mədərumut,mudurumuc,*mədərumut,mədərumuc,*mədərumut,dəmuruc,mədərumut
+`dog',*huliŋ,huliŋ,*huliŋ,huliŋ,*huliŋ,huliŋ,huliŋ
+`doorway',*rəhəŋun,reheŋun,*rəhəŋun,rəhəŋun,*rəhəŋun,rəhəŋun,rəhəŋun
+`downslope; lower place',*hunat,hunac,*hunat,,*hunat,,hunat `south'
+`downslope; lower place',*rahut,rahuc,*rahut,tərahuc,,,
+`dream',*səpi,sepi,*səpi,səpi,*səpi,səpi,səpi
+`droplet',*tudiq,tudiq,*tudiq,,*tuɟiq,,tuɟiq
+`drunk',*bəsukan,busukan,*bəsukan,bəsukan,*bəsukan,bəsukan,bəsukan
+`dry (AV)',*mədəŋu,mudeŋu,*mədəŋu,mədəŋu,*mədəŋu,mədəŋu,mədəŋu
+`dry (LV)',*dəŋəan,duŋean,*dəŋaan,,*dəŋuan,,dəŋuan
+`ear',*birat,birac,*birat,birac,*birat,birac,birat
+`early morning',*caman,caman,*caman,caman,*saman `morning',saman `morning',saman `tomorrow'
+`eaves',*baybay,bebe,*baybay,beybay,*baybay,beybay,(səbəsuk)
+`eel',*tuya,tuya,*tuya,tuya,*tuya,tuya,(tuwil)
+`egg',*baluŋ,baluŋ,*baluŋ,baluŋ,*baluŋ,baluŋ,baluŋ
+`eight',*məsəpat,mumusepac,*məsəpat,məsəpac,*məsəpat,məsəpac,masəpat
+`elbow',*hiqur,hiqun,*hiqur,hiqur,*hiqur,hiqur,hiqur
+`elderly person; ancestor; old',*rudan,rudan,*rudan,rudan,*rudan,rudan,rudan
+`enemy',*payis,payis,*payis,payis,*payis,payis,payis
+`enough',*baka,baka,*baka,baka,*baka,baka,baka
+`evening',*gəbian,bubian,*gəbian,ubian,*gəbian,gəbian,gəbian
+`eye',*dawriq,doriq,*dawriq,dowriq,*dawriq,dowriq,dowriq
+`face',*dəqəras,duqeras,*dəqəras,dəqəras,*dəqəras,dəqəras,dəqəras
+`faeces',*quti,quti,*quti,quti,*quci,quci,quci
+`far',*təhəya,teheya,*təhiyaq,təhiyaq,*təhiyaq,dəhiyaq,təhiyaq
+`fat; stout',*qətəhur,qutehun,*qətəhur,qətəhur,*qətəhur,qətəhur,qətəhur
+`father',*tama,tama,*tama,tama,*tama,tama,tama
+"`feathers, wing'",*palit,palic,*palit,palic,*palit,palic,palit; (pahiŋ)
+`female animal (mammals)',*gipu,gipu,*gipu,wipu,*gipu,,gipu
+`fence (stone)',*hagat,harac,*hagat,hawac,*hagat,harac,hagat `queue'
+`field (agriculture)',*qənəpahan,(neepah),*qənəpahan,qənəpahan,*qənəpahan,qənəpahan,qənəpahan
+`fifty',*mərimal,muriman,*mərimal,mərimal,*mərimal,mərimal,mərimal
+`finger',*təduliŋ,tuduliŋ,*təduliŋ,təluliŋ,*təduliŋ,təduliŋ,təluliŋ
+`fingernail',*kukuh,kukuh,*kukuh,kukuh,*kukuh,kukuh,kukuh
+`fire',*puniq,puniq,*puniq,puniq,*puniq; *tahut,puniq; (tahuc puniq),(tahut)
+`fish trap',*kawbu,kobu,*kawbu,kowbu,*kawbu,kowbu,kowbu
+`fish',*qəcurux,qucurux,*qəcurux,qəcurux,*qəsurux,qəsurux,qəsurux
+`five',*rima,rima,*rima,rima,*rima,rima,rima
+`flat basket; winnowing basket',*bə[t/l]uku,butuku,*bə[t/l]uku,bətuku,*bəluku,bəluku,
+`flatland',*bərəənux,bureenux,*bərəənux,bərənux,*bərəənux,bərənux,bərəənux
+`flower',*pəhəpah,pehepah,*pəhəpah,pəhəpah,*pəhəpah,pəhəpah,pəhəpah
+`flying squirrel',*rapit,rapic,*rapit,rapic,*rapit,rapic,rapit
+`food debris',*siŋas,siŋas,*siŋas,,*siŋas,siŋas,liŋas
+`foot of the mountain',*dəriq,deriq,*dəriq,dəriq,*dəriq,,dəriq
+`foot',*papak,papak,*qaqay,qaqay,*qaqay,qaqay,qaqay
+`forehead',*kəduruk,kuduruk,*kəduruk,kəduruk,*pəŋəlux,pəŋəlux,pəŋəlux
+`forest',*bəbuyu,bubuyu,*bəbuyu,bəbuyu,*bəbuyu,bəbuyu,bəbuyu
+`Formosan Michelia',*səkadu,sukadus,*cəkacu,cəkacu,*səkasu,səkasu,səkasu
+`four',*səpat,sepac,*səpat,səpac,*səpat,səpac,səpat
+`fourty',*məsəpatul,musupatun,*məsəpatul,səpatul,*məsəpatul,məsəpatul,məsəpatul
+`fragile',*məgipuh,mugipuh,*məripuh,məripuh,*məripuh,,məripuh
+`friend',*daŋi,daŋi,*daŋi,daŋi,*daŋi,daŋi,daŋi `lover'
+`friend',*dawin,,*dawin,,*dawin,,dawin `partner; darling (to man)'
+`frog',*qəpatur,qupatun,*qəpatur,qəpatun,*qəpatur,qəpatur,qəpatur
+`from',*kənədalax,kunudalax,*kənədadax,kənədadax,*kənədadax,kənədadax,kənədadax
+`from',*pənəəyah,puneeyah,*pənəiyah,pənəiyah,*pənaah,paah,pənaah
+`fruit',*həyi,heyi,*hiyi,hiyi,*hiyi,hiyi,hiyi
+`full (after eating); satiated',*mətəŋi,muteŋi,*mətəŋi,mətəŋi,*mətəŋi,mətəŋi,mətəŋi
+`fur; body hair',*ubal,uban,*ubal,ubal,*ubal,ubal,ubal
+`gallbladder',*pahuŋ,pahuŋ,*pahuŋ,pahuŋ,*pahuŋ,pahuŋ,pahuŋ
+`garnish; side dish',*damat,damac,*damat,damac,*damat,damac,damat
+`gecko',*cilu,cilu,*cilu,cilu,*silu,silu,
+`generous',*huway,huwe,*huway,huway,*huway,huway,huway
+`go.pst; perfective marker',*wada,wada,*wada,wada,*wada,wada,wada
+`goat; sheep',*mirit,miric,*mirit,miric,*mirit,miric,mirit
+`god; spirit; ghost',*utux,utux,*utux,utux,*utux,utux,utux
+`good',*malu,malu,*malu,malu,*malu,malu,malu
+`granary',*rəpun,repun,*rəpun,rəpun,*rəpun,rəpun,rəpun
+`grandfather',*baki,baki,*baki,baki `father-in-law' ,*baki,baki,baki
+`grandmother',*payi,payi,*payi,payi `mother-in-law',*payi,payi,payi
+`grass',*səpəriq,superiq,*səpəriq,səpəriq,*səpəriq,səpəriq,səpəriq
+`grass',*sudu,sudu,*sudu,sudu,*sudu,sudu,sudu
+`gray hair',*qudas,,*qudas,qudas,,,
+`gray hair',*qudi,qudi,*qudi,,*quɟi,,quɟi
+`green beans',*layan,layan,*layan,layan,*layan,layan,layan
+`green',*məgəsama,mugusama,*məgəsama,məsama,*məgəsama,məgəsama,(məgəpaɟiq)
+`Grey-cheeked fulvetta',*sisil,sisin,*sisil,sisin,*sisil,sisil,sisil
+`ground; earth',*dəxəral,deheran,*dəxəral,dəxəral,*dəxəgal,dəxəgal,dəxəgal
+`hair (on head)',*sənəunux,sunuunux,*sənəunux,sənunux,*sənəunux,sənəunux,sənəunux
+`half; to halve',*cəka,ceka,*cəka,cəka,*səka,səka,səka
+`half; to halve',*dəka,deka,*dəka,dəka,*dəka,dəka,dəka
+`hand hoe',*parih ,parih,*parih ,parih,*parih,parih,
+`hand',*baga,baga,*baga,bawa,*baga,baga,baga
+`happy',*məqaras,muqaras,*məqaras,məqaras,*məqaras,məqaras,məqaras
+`happy',*qərasan,qurasan,*qərasan,qərasan,*qərasan,qərasan,qərasan
+`hard; difficult',*riqu,ruriqu,*riqu,rəriqu,*rəriqu,rəriqu,məsəriqu
+`head louse',*quhiŋ,quhiŋ,*quhiŋ,quhiŋ,*quhiŋ,quhiŋ,quhiŋ
+`head',*tunux,tunux,*tunux,tunux,*tunux,tunux,tunux
+`heavy',*cəhədil,cehedin,*cəhədil,cəhədil,*səhəɟil,səhəɟil,səhəɟil
+`hemp fiber',*nuqih,nuqah,*nuqih,nuqah; nuqih,*nuqih,nuqih,nuqih
+`hips; buttocks',*sulay,sule `women's privates',*sulay,sulay,*sulay,sulay,sulay
+`honeybee',*walu,walu,*walu,walu,*walu,walu,walu
+`horn',*uruŋ,uruŋ,*uruŋ,uruŋ,*uruŋ,uruŋ,uruŋ
+`horse',*dəmai,dumai,*dəmai,dəmai,*dəmai,dəmai,
+`hot spring',*qəhədiŋ,qehediŋ,*qəhədiŋ,qəhədiŋ,*qəhəɟiŋ,qəhəɟiŋ,
+`hot spring',*ulay,ule `a place with hot spring',*ulay,,*ulay,,ulay
+`hot',*mətilux,mutilux,*mətilux,mətilux,*məcilux,məcilux,məcilux
+`hot',,,,,*mətalux,mətalux,mətalux
+`house fly',*rəŋədi,ruŋedi,*rəŋədi,rəŋədi,*rəŋəɟi,rəŋəɟi,rəŋəɟi
+`house; home',*sapah,sapah,*sapah,sapah,*sapah,sapah,sapah
+`how much (uncountable)',*kəhənu,kunehenu,*kəhənu,kəhənu,*kəhənu,kəhənu,kəhənu
+`how much; how many (countable)',*piya,piya,*piya,piya,*piya,piya,piya
+`how; in what way',*həmuya,humuwa,*həmuya,həmuya,*həmuya,həmuya,həmuya
+`how',*huya,(huwa mesa),*səhuya,səhuya,*səhuya,səhuya,səhuya
+`hundred',*kəbəkuy,kubekuy,*kəbəkuy,kəbəkuy,*kəbəkuy,kəbəkuy,kəbəkuy
+`hungry',*məuray,muure,*məuray,muray,*məuray,məuray,məuray
+`in front of; ahead',*bərah,berah,*bərah,bərah,*bərah,bərah,bərah
+`insect',*kuwi,kuwi,*kuwi,kuwi,*kuwi,kuwi,kuwi
+`inside',*ruma,turuma,*ruma,ruma,*ruwan,ruwan,ruwan
+`intestines; guts',*iraq,iraq,*iraq,iraq,*iraq,iraq,iraq
+`juice',*bəyuq,beyuq,*biyuq,biyuq,*biyuq,biyuq,biyuq
+`just now; today',*sawni,soni,*sawni,sowni,*suni,suni,suni
+`k.o. ant',*uyah,,*uyah,uyah,,,
+`k.o. bean',*sukay,suke,*sukay,sukay,*sukay,sukay,sukay
+`lake; sea',*gəciluŋ,ruciluŋ,*gəciluŋ,uciluŋ,*gəsiluŋ,gəsiluŋ,gəsiluŋ
+`late evening; early night',*kəəman,keeman,*kəəman,kəman,*kəəman,kəəman,kəəman
+`lazy',*məbəsərux,mubuserux,*məbəsərux,məbəsurux,*məbəsərux,bəsərux,
+`leaves',*wasaw,waso,*wasaw,wasaw,*wasaw,wasaw,rənabaw
+`leech',*wili,wili,*wili,wili,*wili,wili,wili
+`left over',*məsəŋari,musuŋari,*məsəŋari,məsəŋari,*məsəŋari,məsəŋari,məsəŋari
+`left',*igi,,*igi,iwi,*igi,igi,
+`left',*iril,irin,*iril,iril,*iril,,iril
+`leg',*bətəriq,buteriq,*bətəriq,bətəriq,*bətəriq,bətəriq,bətəriq
+`leopard',*rəkəlit,rukelic,*rəkəlit,rəkəlic,*rəkəlit,rəkəlic,rəkəlit
+`light (not heavy)',*cəlawkah,culokah,*cəlawkah,cəlowkah,*səlukah,səlukah,(ləhəkah)
+`light',*[l/r]ədax,ledax,*rədax,rədax,*rədax,rədax,rədax
+`lips',*pədahuŋ,pudahuŋ,*pədahuŋ,pədahuŋ,*pədahuŋ,pədahuŋ,pədahuŋ
+`liver',*rumul,rumun,*rumul,rumul,*rumul,rumul,rumul
+`lizard',*[k]əlaybaŋ,qulebaŋ,*[k]əlaybaŋ,cəleybaŋ,*[k]əlaybaŋ,kəleybaŋ,qəleybaŋ
+`log',*qəhuni,quhuni,*qəhuni,qəhuni,*qəhuni,qəhuni,qəhuni
+`loincloth',*təhawak,tahawak,*təhawak,təhawak,*təhawak,təhawak,
+`long (thing)',*bəbaraw,bubaro,*bəbaraw,bəbaraw,*bəbaraw,bəbaraw,bəbaraw
+`love',*kuxul,kuxun,*kuxul,kuxul,*kuxul,kuxul,kuxul
+`low; short (height)',*lələbu,lulebu,*lələbu,lələbu,*lələbu,lələbu,lələbu
+`lungs',*baraq,baraq,*baraq,baraq,*baraq,baraq,baraq
+`man; husband',*rəsənaw,ruseno `man'; seno `husband',*sənaw,sənaw,*sənaw,sənaw,sənaw
+`many (people)',*həbaraw,hubaro,*həbaraw,həbaraw,*həbaraw,həbaraw,həbaraw
+`many',*əgu,egu,*əgu,owu,*əgu,əgu,
+`maple tree',*dara,dara,*dara,dara,*dara,dara,dəgaruŋ
+`maqaw (Litsea cubeba)',*maaw,mao,*məqərig,məqəri,*məqərig,məqərig,
+`men's net back bag',*tawkan,tokan,*tawkan,towkan,*tawkan,towkan,towkan
+`millet',*macu,macu,*macu,macu,*masu,masu,masu
+"`money, currency'",*pila,pila,*pila,pila,*pila,pila,pila
+`monkey',*ruŋay,ruŋe,*ruŋay,ruŋay,*ruŋay,ruŋay,ruŋay
+`moon',*idas,idas,*idas,idas,*idas,idas,idas
+`morning',*məgərəbu,mugurebu,*məgərəbu,mərəbu,*məgərəbu ,məgərəbu `early morning',məgərəbu
+`mortar (for grinding)',*duhuŋ,duhuŋ,*duhuŋ,duhuŋ,*duhuŋ,duhuŋ,duhuŋ
+`mosquito; midge; gnat',*pəraykaw,pureko,*pəraykaw,(pəreykay),*pəraykaw,pəreykaw,
+`mother',*bubu,bubu,*bubu,bubu,*bubu,bubu,bubu
+`mountain',*dəgiyaq,dugiyaq,*dəgiyaq,dəwiyaq,*dəgiyaq,dəgiyaq,dəgiyaq
+`mouse; rat',*qawlit,qolic,*qawlit,qowlic,*qawlit,qowlic,qowlit
+`mouth harp; musical instruments',*[t/l]ubug,tubu,*tubug,tubu,*tubug,tubug,lubug
+`mouth harp; musical instruments',*qawqaw,qoqo,*qawqaw,,*qawqaw,qawqaw,qowqaw
+`mouth',*quwaq,quwaq,*quwaq,quwaq,*quwaq,quwaq,quwaq
+`mucus; snot',*ŋucul,ŋucun,*ŋucul,ŋucun,*ŋusul,ŋusul,ŋusul
+`mushrooms',*ŋiraw,ŋiro,*ŋiraw,ŋiraw,*ŋiraw,ŋiraw,ŋiraw
+`name',*ŋayan,ŋayan,*ŋahan; *haŋan,haŋan,*ŋahan; *haŋan,haŋan,haŋan; ŋahan
+`narrow',*dəgə\cvc,dugehiŋ,*dəgəril,dəwəliŋ; dəwəril,*dəgəril,,dəgəril
+`navel; belly button',*puga,puga,*puga,puwa,*puga,puga,puwa
+`nest; burrow',*rudu,rudu,*rudu,rudu,*rudu,rudu,rudu
+`new',*bəgurah,bugurah,*bəgurah,burah,*bəgurah,bəgurah,bəgurah
+`next to',*siyaw,siyo,*siyaw,siyaw,*siyaw,siyaw,siyaw
+`nine',*məŋari,muŋari,*məŋari,məŋari,*məŋari,məŋari,məŋari
+`no; not',*adi,kadi,*adi,,*aɟi,,aɟi
+`no; not',*uxay,uxe,*uxay,uxay,*uxay,uxay,uxay
+`nose',*muhiŋ,muhiŋ,*muhiŋ,muhiŋ,*muhiŋ,muhiŋ,muhiŋ
+`not exist',*uka,uka,*uka,uka,*uka,uka,
+`not exist',*uŋat,,*uŋat,,*uŋat,uŋac,uŋat
+`now',*saya,saya,*saya,saya,*sayaŋ,sayaŋ,sayaŋ
+`often; all day; every day',*kələali,kulaali,*kədədiyax,kədədiyax,*kədəɟiyax,kəɟiyax,kədəɟiyax
+`old (thing)',*səmudal,cumucac,*səmudal,səmudal,*səmudal,səmudal,səmudal
+`older sibling',*qəbəsuran,qubusuran,*qəbəsuran,qəbəsuran,*qəbəsuran,qəbəsuran,qəbəsuran
+"`once, one time'",*təxal,texan,*təxal,təxal,*təxal,təxal,təxal; (səxal)
+"`once, one time'",*təxalun,tuxalun,*təxalun,təxalun,*təxalun,təxalun,
+`one night',*rabi,rabi,*rabi,rabi,*rabi,rabi,rabi
+`one person (out of two or more); alone',*taxa,taxa,*taxa,taxa,*taxa,taxa,taxa
+`one side; other half',*icil,icin,*icil,icil,*isil,isil,isil
+`one',*kiŋal,kiŋan,*kiŋal,kiŋal,*kiŋal,kiŋal,kiŋal
+`origin; root',*pusu,pusu,*pusu,pusu,*pusu,pusu,pusu
+`outside',*ŋaŋut,ŋaŋuc,*ŋaŋut,ŋaŋuc,*ŋaŋut,ŋaŋuc,ŋaŋut
+`outside',*ŋərat,ŋerac,,,,,
+`pangolin',*aruŋ,aruŋ,*aruŋ,aruŋ,*aruŋ,aruŋ,aruŋ
+`peach',*ariŋ,ariŋ,*ariŋ,ariŋ,*qəlupas,qəlupas,qəlupas
+`person; people; humans',*səədiq,seediq,*səədiq,sədiq,*səəɟiq,səəɟiq,səəɟiq
+`pestle (for grinding)',*səru,seru,*səru,səru,*səru,səru,səru
+`pig',*babuy,babuy,*babuy,babuy,*babuy,babuy,babuy
+`pigeon peas',*suŋut,suŋuc,*suŋut,suŋuc,*suŋut,suŋuc,suŋut
+`piglet',*bəru,beru,*bəru,bəru,*bəru,bəru,bəru
+`pigsty',*[t/l]ibu,tibu,*tibu,tibu,*libu,libu,libu
+`pork; fatty meat',*siyaŋ,siyaŋ,*siyaŋ,siyaŋ,*siyaŋ,siyaŋ,siyaŋ
+`pretty; beautiful',*məbətunux,mubutunux,*məbətunux,məbətunux,,,
+`puppy',*uruk,uruk,*uruk,uruk,*uruk,uruk,
+`rain',*quyux,quyux,*quyux,quyux,*quyux,quyux,quyux
+`rainbow',*hakaw utux,hako utux,*hakaw utux,hakaw utux,*hakaw utux,hakaw utux,hakaw utux
+`ramie',*kəgig,keguy,*kərig,kəri,*kərig,kərig,kərig
+`rapidly',*nais,tununais,*nais,,*nais,,pənais
+`rapidly',*naysun,tununesun,*naysun,,*naysun,,pəneysun
+`raw rice; rice seeds',*buwax,,*buwax,buwax,*buwax,buwax,buwax
+`red',*mətanah,mutanah,*mətanah,məbanah,*əmbanah,əmbanah,əmbanah
+`Reeves's Muntjac',*pada,pada,*pada,pada,*pada,pada,pada
+`relative; family member',*dadal,dadan,*dadal,dadal,*dadal,dadal,dadal `concubine'
+`rice plant',*payay,paye,*payay,payay,*payay,payay,payay
+`right',*narat,narac,*narat,narac,*narat,narac,narat
+`river',*yayuŋ,yayuŋ,*yayuŋ,yayuŋ,*yayuŋ,yayuŋ,yayuŋ
+`road',*əlug,elu,*əlug,əlu,*əlug,əlug,əlug
+`rock cave',*ləhəŋaw,leheŋo,*ləhəŋaw,ləhəŋaw,*ləhəŋaw,ləhəŋaw,ləhəŋaw
+`roof',*dənamux,dunamux,*dənamux,,*dənamux,dənamux,dənamux
+`root',*gamil,gamin,*gamil,wamil,*gamil,gamil,gamil
+`rotten',*səburaw,suburo,*səburaw,səburaw,*səburaw,səburaw,səburaw
+`saliva',*hərulas,hurulas,*halus,halus,*halus,halus,halus
+`salt',*timu,timu,*timu,timu,*cimu,cimu,cimu
+`salty',*mərəmul,muremun,*mərəmul,mərəmul,*mərəmul,mərəmul,mərəmun
+`sambar deer',*rəqənux,ruqenux,*rəqənux,rəqənux,*rəqənux,rəqənux,rəqənux
+`same',*mənətəna,munutena,*mənətəna,mənətəna,*mənətəna,mənətəna,
+`sand',*bənaqig,bunaquy,*bənaqig,bənaqi,*bənaqig,bənaqig,bənaqig
+`seeds',*gəhak,rehak,*gəhak,rəhak,*gəhak,gəhak,gəhak
+`seven',*məpitu,mupitu,*məpitu,məpitu,*əmpitu,əmpitu,əmpitu
+`shelf',*paga,paga,*paga,pawa `bed',*paga,paga,paga
+`shoes',*ramil,,*ramil,ramil,*ramil,ramil,ramil
+`shoulder',*ahiŋ,ahiŋ,,,,,
+`shoulder',*hiraŋ,,*hiraŋ,hiraŋ,*hiraŋ,hiraŋ,hiraŋ
+`shrimp',*bawluŋ,boluŋ,*bawluŋ,bowluŋ,*-bawluŋ,qəbowluŋ,kəbowluŋ
+`shy; bashful; embarrased',*məsiqa,musiqa,*məsiqa,məsiqa,*siqa,siqa,məsiqa
+`sinew; tendon',*urat,urac,*urat,,*urat,,urat
+`six',*mətəru,mumuteru,*mətəru,məturu,*mataru,mataru,mataru
+`skin',*qəraqil,quraqin,*qəraqil,qəraqin,*qəraqil,qəraqil,qəraqil
+`sky; weather',*karat,karac,*karat,karac,*karat,karac,karat
+`slippery',*dəhəriq,deheriq,*dəhəriq,dəhəriq,*dəhəriq,dəhəriq,dəhəriq
+`small knife',*yayu,yayu,*yayu,yayu,*yayu,yayu,yayu
+`small',*biciq,biciq,,,,,bilaq
+`smoke',*qərəŋul,qureŋun,*qərəŋul,qərəŋul,*qərəŋul,qərəŋul,qərəŋul
+`snake',*quyu,quyu,*quyu,quyu,*quyu,quyu,quyu
+`snow; ice',*huda,huda,*huda,huda,*huda,huda,huda
+`soft',*məhənuk,mehenuk,*məhənuk,məhənuk,*məhənuk,məhənuk,məhənuk
+`sole',*dapil,dapin,*dapil,dapil,*dapil,dapil,dapil
+`song',*uyas,uyas,*uyas,uyas,*uyas,uyas,uyas
+`sound',*hərənaŋ,hurenaŋ,*hərənaŋ,hənaŋ,*hərənaŋ,hərənaŋ,hənaŋ
+`soup',*bəgu,begu,*bəgu,bu,*bəgu,bəgu,bəgu
+`spear',*sənəbəraŋan,sunuburaŋan,*sənəbəraŋan,sənəbəraŋan,*sənəbəraŋan,sənəbəraŋan,səməbəraŋan
+`speech; language',*kari,kari,*kari,kari,*kari,kari,kari
+`spicy',*məŋihur,muŋihun,*məŋihur,məŋihur,*mənihur,mənihur,mənihur
+`squirrel',*bərihut,burihuc,*bərihut,bərihuc,*bərihut,bərihuc,bərihut
+`stomach',*ləhəbun,lehebun,*ləhəbun,ləhəbun,*rəkətu,rəkətu,rəkətu
+`stone',*bətunux,butunux,*bətunux,bətunux,*bətunux,bətunux,bətunux
+`stream; creek',*ayug,ayu `valley',*ayug,ayu,*ayug,ayug,ayug
+`strong',*məbəyax,mubeyax,*məbiyax,məbiyax,*əmbiyax,əmbiyax,əmbiyax
+`sucking pig',*bəru,beru,*bəru,bəru,*bəru,bəru,bəru
+`sugarcane',*sibus,sibus,*sibus,sibus,*sibus,sibus,sibus
+`summer',*rəbagan,rubagan,*rəbagan,rəbawan,*rəbagan,rəbagan,rəbagan
+`sun',*hidaw,hido,*hidaw,hidaw,*hidaw,hidaw,hidaw
+`sweat',*məriŋ,meriŋ,*məriŋ,məriŋ,*məriŋ,məriŋ,məriŋ
+`sweet potato',*buŋa,buŋa,*buŋa,buŋa,*buŋa,buŋa,buŋa
+`sweet',*məsibus,musibus,*məsibus,məsibus,*məsibus,məsibus,məsibus
+`taboo',*bəsaniq,busaniq,*bəsaniq,bəsaniq,*pəsaniq,pəsaniq,pəsaniq
+`tail',*ŋuŋu,ŋuŋu,*ŋuŋu,ŋuŋu,*ŋuŋu,ŋuŋu,ŋuŋu
+`Taiwanese lily',*bawxi,boxi,*bawxi,bowxi,*bawxi,bowxi,bowxi
+`taro',*sari,sari,*sari,sari,*sari,sari,sari
+`teeth',*gupun,rupun,*gupun,rupun,*gupun,gupun,gupun
+`ten',*maxal,maxan,*maxal,maxal,*maxal,maxal,maxal
+`testicles',*bəgax,begax,*bəgax,,*bəgax,bəgax,
+`testicles',,,*baluŋ,baluŋ,*baluŋ,baluŋ,baluŋ
+`that (invisible?)',,,*gayi,way,*gayi,,gayi `far'
+`that',*gaga,gaga,*gaga,wawa,*gaga,gaga,gaga
+`the day after tomorrow',*məkaxa,mukaxa,*məkaxa,məkaxa,*məkaxa,məkaxa,məkaxa
+`the day before yesterday',*cənəkaxa,cunukaxa,*cənəkaxa,cənəkaxa,*sənəkaxa,sənəkaxa,sənəkaxa
+`thick',*məkənədux,mukunedux,*məkənədux,kənədux,*məkənədux,kənədux,məkənədux
+`thin; skinny',,,*məliwaŋ,məliwaŋ,*məliwaŋ,məliwaŋ,liwaŋ
+`thin',*rəqəliŋ,ruqeliŋ,*rəqəliŋ,rəqəliŋ,*rəqəliŋ,ləqəliŋ,rəqəliŋ
+`thing; instrument',*qəya,quyuqeya,*qiya,qəqiya,*qaya,qaya,qaya
+`thirsty',*məhuaw,(muhuqeni),*məhuaw,məhuaw,*məhuaw,məhuaw,məhuaw
+`thirty',*mətərul,muterun,*mətərul,məturul,*mətərul,mətərul,mətərul
+`this',*nii,nii,*nii,nii,*nii,nii,nii
+`three',*təru,teru,*təru,turu,*təru,təru,təru
+`throat',*gəlu,gelu,*gəlu,wəlu,*gəlu,gəlu,gəlu
+`tired',*məuwit,muuwic,*məuwit,mowic,*məuwit,məuwic,məuwit
+`to add',*mumal,muman,*mumal,muman,*mumal,umal,mumal
+`to answer; to respond (AV)',*cumiyuk,cumiyuk,*cumiyuk,cəmiyuk,*səmiyuk,səmiyuk,səmiyuk
+`to answer; to respond (PV)',*cəyukun,cuyukun,*cəyukun,cəyukun,*səyukun,səyukun,
+`to arrive (AV)',*dəhuk,dehuk,*dəhuq,dəhuq,*dəhuq,dəhuq,dəhuq
+`to arrive (PV)',*dəhəkun,dehekan,*dəhəqun,dəhəqun,*dəhəqun,dəhəqun,dəhəqun
+`to ask (AV)',*səmiliŋ,sumiliŋ,*səmiliŋ,səmiliŋ,*səmiliŋ,səmiliŋ,səmiliŋ
+`to ask (PV)',*səliŋun,suliŋun,*səliŋun,,*səliŋun,,səliŋun
+`to assemble (AV)',*səməli,sumeli,*səməli,pəsəsəli,*səməli,səməli,səməli
+`to assemble (PV)',*səliun,suliun,*səliun,səliun,*səliun,səliun,səliun
+`to be facing s.t.; about s.t.',*quri,quri,*quri,quri,*quri,quri,quri
+`to be in disarray; to be knotted (of string) (PV)',*rəduun,ruduun,,rəduun,*rəduun,rəduun,
+`to be in disarray; to be knotted (of string)',*rudu,pururudu,*rudu,,*rudu,,rəmudu
+`to be in pain; to fall ill (AV)',*mənarux,munarux,*mənarux,mənarux,*mənarux,mənarux,mənarux
+`to be standing (AV)',*məhəyug,meheyu,*məhiyug,məhiyu,*məhiyug,hiyug,məhiyug
+`to be startled (AV)',*səkəlui,sukului,*səkəlui,səkəlui,*səkəlui,səkəlui,səkəlui
+`to begin (AV)',*pəradiŋ,puradiŋ,*pəradiŋ,pəradiŋ,*pəraɟiŋ,pəraɟiŋ,pəraɟiŋ
+`to begin (PV)',*pərədiŋun,purudiŋun,*pərədiŋun,pərədiŋun,*pərəɟiŋun,pərəɟiŋun,
+`to bite (AV)',*qəmiyut,qumiyuc,*qəmiyut,qəmiyuc,*qəmiyut,,qəmiyut
+`to bite (PV)',*qəyutun,quyutun,*qəyutun,qəyutun,*qiyutun,qiyutun,qiyutun
+`to blow (AV)',*miyuk,miyuk,*miyuk,miyuk,*miyuk,miyuk,miyuk
+`to blow (PV)',*yupun,yupun,*yupun,yupun,*yupun,yupun,yupun
+"`to burn (intr, AV)'",*səlamaq,sulamaq,*səlamaq,,*səlamaq,səlamaq,səlamaq
+"`to burn (intr, AV)'",*səqama,suqama,*səqama,səqama,*səqama,səqama,səqama
+"`to burn (tr, PV)'",*sələmaqun,sulumaqun,*sələmaqun,,*sələmaqun,sələmaqun,
+"`to burn (tr, PV)'",*səqəmaun,suqumaun,*səqəmaun,səqəmaun,*səqəmaun,səqəmaun,səqəmaan
+`to buy (AV)',*marig,maruy,*marig,mari,*marig,marig,marig
+`to buy (PV)',*bərigun,burigun,*bərigun,bəriwun,*bərigun,bərigun,bərigun
+`to call (AV)',*ləmawa,lumawa,*ləmawa,məlawa,*ləmawa,ləmawa,məlawa
+`to call (PV)',*ləwanun,luwanun,*ləwanun,,*ləwanun,ləwanun,
+`to carry on one's back (AV)',*mapa,mapa,*mapa,mapa,*mapa,mapa,mapa
+`to carry on one's back (LV)',*paan,paanun,*paan,paanun,*paanun,paanun,paan
+`to chew (AV)',*məsəkan,musekan,*məsəkan,məsəkan,*məsəkan,məsəkan,məsəkan
+`to chew (PV)',*pəsəkanun,pusukanun,*pəsəkanun,pəsəkani,*pəsəkani,pəsəkani,pəsəkanun
+`to choose (AV)',*gəmaaw,gumao,*gəmaaw,umau,*gəmaaw,gaaw,gəmaaw
+`to choose (PV)',*gəəgun,geegun,*gəəgun,,*gəəgun,,gəəgun
+`to clear a field (AV)',*kəməbəgurah,kumubugurah,*kəməbəgurah,kənəburah,*kəməbəgurah,təməbəgurah,kəməbəgurah
+`to climb (AV)',*mədakil,mudakin,*mədakil,mədakil,*mədakil,mədakil,mədakil
+`to climb (AV)',*məkaraw,mukaro,*məkaraw,məkaraw,*məkaraw,məkaraw,məkaraw
+`to climb (PV)',*kədəkilun,kudukilun,*kədəkilun,kədəkilun,,,
+`to close (AV)',*məduk,meluk,*məduk,məluk,*məduk,məduk,məduk
+`to close (LV)',*dəban,leban,*dəban,ləban,*dəpan,dəpan,dəpan
+`to close one's eyes (AV)',*məqəmi,muqemi,*məqəmi,məqəmi,*məqəmi,məqəmi,məqəmi
+`to collect (AV)',*səməli,sumeli,*səməli,,*səməli,səməli,səməli
+`to collect (PV)',*səliun,suliun,*səliun,səliun,*səliun,səliun,səliun
+`to come (AV)',*məyah,meyah,*miyah,miyah,*miyah,miyah,miyah
+`to cook; to boil (AV)',*həmaŋut,humaŋuc,*həmaŋut,həmaŋuc,*həmaŋut,həmaŋuc,həmaŋut
+`to cook; to boil (AV)',*həpuray,hupure; pure,,,,,
+`to cook; to boil (AV)',*məhapuy,,*məhapuy,məhapuy,*məhapuy,məhapuy,məhapuy
+`to cook; to boil (PV)',*həŋədun,huŋedun,*həŋədun,həŋədun,*həŋədun,həŋədun,həŋədun
+`to cook; to boil (PV)',*həpərayun,hupurayun,,,,,
+`to cook; to boil (PV)',*həpuyun,,*həpuyun,,*həpuyun,həpuyun,həpuyun
+`to count (AV)',*səməpug,sumepu,*səməpug,səməpu,*səməpug,səməpug,səməpug
+`to count (PV)',*səpəgun,supegun,*səpəgun,səpuwi,*səpəgun,səpəgun,səpəgun
+`to cry; to weep (AV)',*ləmiŋis,lumiŋis,*ləmiŋis,ləmiŋis,*ləmiŋis,ləmiŋis,ləmiŋis
+`to cry; to weep (PV)',*ləŋisan,luŋisan,*ləŋisan,ləŋisan,*ləŋisan,ləŋisan,ləŋisan
+`to cut; to chop (AV)',*səməqit,sumeqic,*səməqit,səməqic,*səməqit,səməqic,səməqit
+`to cut; to chop (PV)',*səqitun,suqitun,*səqitun,səqitun,*səqitun,səqitun,səqitun
+`to destroy; to waste (AV)',*səməəliq,sumeeliq,*səməəliq,səməliq,*səməəliq,səməəliq,səməəliq
+`to destroy; to waste (LV)',*səliqan,suliqan,*səliqan,səliqan,*səliqan,səliqan,səliqan
+`to die (AV)',*məhuqil,muhuqin,*məhuqil,məhuqil,*məhuqil,məhuqil,məhuqil
+`to dig (AV)',*kəmari,kumari,*kəmari,kəmari,*kəmari,kəmari,kəmari
+`to dig (PV)',*kəriun,kuriun,*kəriun,kəriun,*kəriun,kəriun,kəriun
+"`to divide (things, AV)'",*masug,masu,*masug,masu,*masug,masug,masug
+"`to divide (things, LF)'",*sugun,sugun,*sugun,pəsuwun,*sugun,sugun,səgun
+`to draw; to tattoo; to write (AV)',*matas,matis,*matas,matas,*matas,matas,matas
+`to draw; to tattoo; to write (PV)',*pətasun,putasun,*pətasun,pətasun,*pətasun,pətasun,pətasun
+`to drink (AV)',*mimah,mimah,*mimah,mimah,*mimah,mimah,mimah
+`to drink (PV)',*mahun,mahun,*mahun,mahun,*mahun,mahun,mahun
+`to dry (AV)',*dəməŋu,dumeŋu,*dəməŋu,,*dəməŋu,,dəməŋu
+`to dry in the air (AV)',*həmalig,humaluy,*həmalig,,*həmalig,,həmalig
+`to dry in the air (LV)',*həligun,huligan,*həligun,,*həligun,,həligun
+`to eat (AV)',*məkan,mekan,*məkan,məkan,*məkan,məkan,məkan
+`to eat (PV)',*uqun,uqun; (puqun),*uqun,uqun,*uqun,uqun,uqun
+`to extract fiber from plants (AV)',*qəmənuqih,munuqah,*qəmənuqih,qəmənuqah,*qəmənuqih,qəmənuqih,qəmənuqih
+`to extract fiber from plants (LV)',*qənəqihan,qunuqihan,*qənəqihan,qənəqihan,*qənəqihan,qənəqihan,qənəqihan
+`to fear; to be afraid (AV)',*məŋuŋu,muŋuŋu,*məŋuŋu,,*məŋuŋu,məŋuŋu,məŋuŋu
+`to fear; to be afraid (AV)',*məicug,miicu,*məicug,micu,*misug,misug,miisug
+`to fear; to be afraid (PV)',*kəcugun,kucugun,*kəcugun,kəcuwun,*kəsugun,,kəsugun
+"`to feed; to rear; to raise (animals, AV)'",*təmabug,tumabu,*təmabug,təmabu,*təmabug,təmabug,təmabug
+"`to feed; to rear; to raise (animals, PV)'",*təbugun,tubugun,*təbugun,təbuwi,*təbugi,təbugi,təbəgun
+`to ferment; to pickle (AV)',*qəmamas,qumamas,*qəmamas,qəmamas,*qəmamas,,qəmamas
+`to ferment; to pickle (PV)',*qəmasun,qumasun,*qəmasun,qəmasun,*qəmasun,qəmasun,qəmasun
+`to finish; to end (AV)',*qəməhədu,qumehedu,*qəməhədu,məhədu,*qəməhədu,məhədu,qəməhədu
+`to finish; to end (PV)',*qəhədəun,quhudeun; qudeun,*qəhəduun,qəduun,*qəhəduun,qədui,qəhəduun; qəduun
+`to flow; to float (AV)',*qəluli,qululi,*qəluli,,*qəluli,qəluli,qəluli
+`to flow; to float (PV)',*qələliun,qululiun,,,,,
+`to forget (AV)',*cəməhuŋi,cumuhuŋi,*cəməhuŋi,cəməhuŋi,*səməhuŋi,səməhuŋi,səməhuŋi
+`to forget (PV)',*cəhəŋiun,cuhuŋiun,*cəhəŋiun,cəhəŋiun,*səhəŋiun,səhəŋiun,səhəŋiun
+`to gather (AV)',*ləmamu,lumamu,*ləmamu,ləmamu,*ləmamu,ləmamu,ləmamu
+`to gather (PV)',*ləmuun,lumuun,*ləmuun,ləmuun,*ləmuun,ləmuun,ləmuun
+`to give (AV)',*məgay,mege,*məgay,muway,*məgay,məgay,məgay
+`to give (AV)',,,*muwiq,,*muwiq,,muwiq
+`to give (LV)',*biqan,biqan,*biqan,biqan,*biqan,biqan,biqan
+`to go (AV)',*məha,maha,*məha,maha,*məha,məha,məha
+`to go (AV)',*musa,musa; (mosa),*musa,musa,*musa,musa,musa
+`to go (LV)',*səsaan,susaan,*səsaan,,*səsaan,,səsaan
+`to grab (AV)',*qəmərak,qumerac,*qəmərak,qəməraq,*qəmərak,qəməraq,qəmərak
+`to grab (PV)',*qərapun,qurapun,*qərapun,qərapun,*qərapun,qərapun,qərapun
+"`to grow (of children, plants, AV)'",*mədakil,mudakin,*mədakil,mədakil,*mədakil,mədakil,mədakil
+"`to hang (clothes, etc., AV)'",*qəməya,qumeya,*qəmiya,məqiya,*pəqəya,pəqəya,pəqaya
+"`to hang (clothes, etc., LV/PV)'",*qəyaan,quyaanun,*qəyaan,qəyanan,*qəyaan,pəqəyai,pəqəyaan
+`to help (AV)',*dəmayaw,dumayo,*dəmayaw,dəmayaw,*dəmayaw,dəmayaw,dəmayaw
+`to help (PV)',*dəyagun,duyagun,*dəyagun,dəwayun ,*ɟiyagun,,ɟiyagun
+`to hide s.t. (AV)',*ləməiŋ,lumeiŋ,*ləmiiŋ,,*ləmiiŋ,ləmiiŋ,ləmiiŋ
+`to hide s.t. (PV)',*ləiŋun,liiŋun,*ləiŋun,liŋan,*ləiŋun,,liiŋun
+`to hunt by chasing (AV)',*maduk,maduk,*maduk,maduk,*maduk,maduk,maduk
+`to hunt by chasing (PV)',*dupun,dupun,*dupun,,*dupun,dupun,dupun
+`to know (AV)',*məkəla,mukela,*məkəla,məkəla,*məkəla,məkəla,məkəla
+`to know (PV)',*kəlaun,kulaun,*kəlaun,kəlaun,*kəlaun,kəlaun,kəlaun
+`to laugh (AV)',*məhulis,muhulis,*məhulis,məhulis,*məhulis,məhulis,məhulis
+`to laugh (PV)',*pəhəlisun,puhulisun,*pəhəlisun,pəhəlisi,*pəhəlisun,,pəhəlisun
+`to leave s.t. (AV)',*həmiti,humiti,*həmiti,həmiti,*həmici,həmici,həmici
+`to leave s.t. (PV)',*hətiun,hutiun,*hətiun,,*həciun,həciun,həciun
+`to listen (AV)',*qəməbahaŋ,qumubahaŋ; mubahaŋ,*qəməbahaŋ,məbahaŋ,*qəməbahaŋ,,əmbahaŋ
+`to listen (PV)',*qəbəhaŋun,qubuhaŋun,*qəbəhaŋun,qəbəhaŋun,*qəbəhaŋun,qəbəhaŋun,bəhaŋan
+`to look for something (AV)',*migiŋ,migin,*migiŋ,miŋ,*migiŋ,migin,miyiŋ
+`to look for something (LV)',*giman,giman,*giman,wiman,*giman,,giman
+`to look; to see (AV)',*qəmita,qumita,*qəmita,qəmita,*qəmita,qəmita,qəmita
+`to look; to see (LV)',*qətaan,qutaan,*qətaan,qətaan,*qətaan,qətaan,qətaan
+`to lose (AV)',*məgədaŋ,mugedaŋ,*mərədaŋ,mərədaŋ,*məridaŋ,məridaŋ,meydaŋ
+`to lose (PV)',*pəgədaŋun,pugudaŋun,*pərədaŋun,,*pərədaŋun,,pərədaŋun
+`to love (AV)',*səməkuxul,sumukuxun,*səməkuxul,səməkuxul,*səməkuxul,səməkuxul,səməkuxul
+`to love (PV)',*səkəxəlun,sunukuxelan,*səkəxəlun,səkəxəlun,*səkəxəlun,,səkəxəlun
+`to make rope (AV)',*səmuyuk,sumuyuk,*səmuyuk,səmuyuk,*səmuyuk,səmuyuk,səmuyuk
+`to make rope (PV)',*səyukun,suyukun,*səyukun,,*səyukun,səyukun,səyukun
+`to make; to build (AV)',*səməmalu,sumumalu,*səməmalu,səməmalu,*səməmalu,səməmalu,səməmalu
+`to make; to build (LV)',*səmələan,sulumean,*səməlaan,,*səməlaan,,səməlaan
+`to measure (AV)',*səməuŋ,sumeuŋ,*səmuuŋ,səmuŋ,*səməpuŋ,səməpuŋ,səməpuŋ
+`to measure (PV)',*səəŋun,seeŋun,*səəŋun,səŋun,*səpəŋan (LV),,səpəŋan
+`to migrate (AV)',*təhə\cvc,teheruy,*təhədil,təhədil,*təhəɟil,təhəɟil,təhəɟil
+`to mix (AV)',*gəmimax,gumimax,*gəmimax,mərimax,*gəmimax,,gəmimax
+`to mix (LV)',*gəmaxan,gumaxan,*gəmaxan,rəmaxan,*gəmaxun,gəmaxun,gəmaxan
+`to open (AV)',*rəmawah,rumaguh,*rəmawah,rəmawah,*rəmawah,rəmawah,rəmawah
+`to open (LV)',*rəwahan,ruwahan,*rəwahan,rəwahan,*rəwahan,rəwahan,rəwahan
+`to pass; to overtake (AV)',*həmərinas,humurinas,*həmərinas,həmərinas,*həmərinas,həmərinas,həmərinas
+`to pass; to overtake (PV)',*hərənasun,hurunasun,*hərənasun,hərənasun,*hərənasun,hərənasun,hərənasun
+"`to patch (clothes, AV)'",*cəmapaŋ,cumapaŋ,*cəmapaŋ,cəmapaŋ,*səmapaŋ,səmapaŋ,səmapaŋ
+"`to patch (clothes, PV)'",*cəpaŋun,cupaŋun,*cəpaŋun,cəpaŋun,*səpaŋun,səpaŋun,səpaŋan
+`to pile stones (AV)',*məhagat,muharac,*məhagat,məhawac,*məhagat,məharac,həmagat `to pile; to line up'
+`to pile stones (PV)',*həgadun,huradun,*həgadun,hənəwatan `pile of stones',*həgadun,həradun,həgadun `to pile; to line up'
+`to plant (AV)',*məhuma,muhuma,*məhuma,məhuma,*məhuma,məhuma,məhuma
+`to plant (PV)',*pəhəmaun,puhumaun,*pəhəmaun,,*pəhəmaun,,pəhəmaun
+`to pluck (AV)',*kəmətuy,kumetuy,*kəmətuy,kəmətuy,*kəmətuy,kəmətuy,kəmətuy
+`to pluck (PV)',*kətəyun,kuteyun,*kətiyun,,*kəciyun,,kəciyun
+`to pour (AV)',*həmərig,humeruy,*həmərig,həməri,*həmərig,həmərig,həmərig
+`to pour (PV)',*hərigun,hurigun,*hərigun,,*hərigun,,hərigun
+`to praise (AV)',*təmədahu,tumudahu,*təmədahu,,*təmədahu,,təmədahu
+`to pull out (AV)',*gəmabal,gumabin,*gəmabal,umabal,*gəmabal,gəmabal,gəmabal
+`to pull out (PV)',*gəbalun,gubilun,*gəbalun,ubali,*gəbalun,,gəbalun
+`to pull; to drag (AV)',*dəmulus,tumulus,*dəmulus,dəmulus,*dəmulus,,dəmulus
+`to pull; to drag (PV)',*dəlusun,tulusun,*dəlusun,dəlusun,*dəlusun,,dəlusun
+`to push (AV)',*cəmikul,cumikun,*cəmikul,cəmikul,*səmikul,səmikul,səmikul
+`to push (PV)',*cəkulun,cukulun,*cəkulun,cəkulun,*səkulun,səkulun,
+`to put (AV)',*pawsa,posa,*pawsa,powsa,*powsa,powsa,powsa
+`to put (AV)',*pəha,paha,,,,,
+`to put (AV)',,,*pusa,pusa,*pusa,pusa,
+`to rain (AV)',*qəmuyux,qumuyux,*qəmuyux,qəmuyux,*qəmuyux,qəmuyux,qəmuyux
+"`to raise (animals, children, AV)'",*dəmaŋa,dumaŋa,*dəmaŋa,dəmaŋa,*dəmaŋa,dəmaŋa,dəmaŋa
+"`to raise (animals, children, PV)'",*dəŋaun,duŋaun,*dəŋaun,dəŋaun,*dəŋaun,,dəŋaun
+`to remove the bark from ramie; to decorticate (AV)',*səməkəgig,sumukeguy,*səməkərig,səməkəri,*səməkərig,səməkərig,səməkərig
+`to remove the bark from ramie; to decorticate (PV)',*səkəgigun,sukugigun,*səkəgigun,səkəriyun,*səkəgigun,səkəgigun,səkərigun
+`to request (AV)',*maysa,mesa,*maysa,,*maysa,,meysa
+`to request (AV)',*paysa,pesa,*paysa,,*paysa,,peysa
+`to rest (AV)',*məsaŋay,musaŋe,*məsaŋay,məsaŋay,*məsaŋay,məsaŋay,məsaŋay
+`to rest (LV)',*səŋayan,suŋayan,*səŋayan,səŋayan,*səŋayan,səŋayan,səŋayan
+`to rise; to stand up; to wake up (AV)',*mətutuy,mututuy,*mətutuy,tutuy,*tutuy,tutuy,mətutuy
+`to roast (AV)',*muduh,muduh,*muduh,muduh,*muduh,muduh,muduh
+`to roast (PV)',*duhun,duhun,*duhun,duhun,*duhun,,duhun
+`to rub; to wipe (AV)',*səmərus,sumerus,*səmərus,səmərus,*səmərus,səmərus,səmərus
+`to rub; to wipe (PV)',*sərəsun,suresun,*sərəsun,sərəsun,*sərəsun,sərəsun,sərəsun
+`to save (AV)',*səməku,sumeku,*səməku,səməku,*səməku,səməku,səməku
+`to save (PV)',*səkuun,sukuun,*səkuun,səkuun,*səkuun,səkuun,səkuun
+`to saw (AV)',*kəmərut,kumeruc,*kəmərut,kəməruc,*kəmərut,kəməruc,kəmərut
+`to saw (PV)',*kərətun,kuretun,*kərətun,kərətun,*kərətun,kərətun,kərətun
+`to say (AV)',*rəməŋaw,rumeŋo,*rəməŋaw,rəməŋaw,*rəməŋaw,rəməŋaw,rəməŋaw
+`to say (PV)',*rəŋagun,ruŋagun,*rəŋagun,rəŋawan,*rəŋagun,rəŋagun,rəŋagun
+`to say goodbye; to separate (AV)',*məsəwayay,musuwaye,*məsəwayay,məsəwayay,*səwayay,səwayay,məsəwayay
+`to scald (AV)',*cəmuliŋ,cumuliŋ,*cəmuliŋ,cəmuliŋ,*səmuliŋ,səmuliŋ,
+`to scald (PV)',*cəliŋun,culiŋun,*cəliŋun,cəliŋan,*səliŋun,səliŋun,
+`to scold (AV)',*məsəaŋ,museaŋ,*məsaaŋ,məsaŋ,*məsaaŋ,məsaaŋ,məsaaŋ
+`to scold (PV)',*kəsəəŋun,kuseeŋun,*kəsəəŋun,kənəsaŋan,*kəsəəŋun,,kəsəəŋun
+`to scoop up (AV)',*dəmahug,dumahun,*cəmahug,cəmahu,*səmahug,səmahug,səmahug
+"`to scoop up; to ladle (a liquid, PV)'",*dəhugun,duhurun,*cəhugun,cəhuwi,,,
+`to sew (AV)',*səmais,sumais,*səmais,səmais,*səmais,,səmais
+`to sew (PV)',*səisun,siisun,*səisun,,*səisun,,səisun
+"`to sharpen (a knife, AV)'",*ləməpax,lumepax,*ləməpax,lipax,*ləməpax,ləməpax,ləməpax
+"`to sharpen (a knife, PV)'",*ləpaxun,lupaxun,*ləpaxun,ləpaxun,*ləpaxun,ləpaxun,ləpaxun
+`to shoot (AV)',*cəməbu,cumebu,*cəməbu,cəməbu,*səməbu,səməbu,səməbu
+`to shoot (PV)',*cəbuun,cubuun,*cəbuun,cəbuun,*səbuun,,səbuun
+`to sing (AV)',*məuyas,muuyas,*məuyas,muyas,*məuyas,məuyas,məuyas
+`to singe off fur (AV)',*səmaruk,sumaruk,*səmaruk,səmaruk,*səmaruk,səmaruk,səmaruk
+`to singe off fur (PV)',*sərukun,surukun,*sərukun,,*səruki,,səruki
+`to sit (AV)',*tələuŋ,tulouŋ,*təluuŋ,təluŋ,*təluuŋ,təluuŋ,təluuŋ
+`to sit (LV)',*tələəŋan,tuleeŋan,*tələəŋan,tələŋan,*tələəŋan,tələəŋan,tələəŋan
+"`to skin; to peel (rind, bark, AV)'",*rəməhiq,rumehaq,*rəməhiq,rəməhiq,*rəməhiq,rəməhiq,rəməhiq
+"`to skin; to peel (rind, bark, PV)'",*rəhiqun,rehequn,*rəhiqun,rəhiqun,*rəhiqun,rəhiqun,
+`to sleep (AV)',*mətaqi,mutaqi,*mətaqi,mətaqi,*mətaqi,mətaqi,mətaqi
+`to smell; to sniff (AV)',*səməkənux,sumukenux,*səməkənux,səməkənux,*səməkənux,,səməkənux
+`to smell; to sniff (LV)',*səkənəxan,sukunexan,*səkənəxan,səkənəxan,*səkənəxan,səkənəxan,səkənəxan
+`to stab; to prick (AV)',*maytaq,metaq,*maytaq,meytaq,*maytaq,mitaq,meytaq
+`to stab; to prick (PV)',*bətaqun,butaqun,*bətaqun,bətaqun,*bətaqun,bətaqun,bətaqun
+`to steal (AV)',*gəməəguy,gumeeguy,*gəməəguy,umowuy; mowuy,*gəməəguy,məəguy,gəməəguy
+`to steal (PV)',*gəguyun,guguyun,*gəguyun,,*gəguyun,,guyun
+`to stick',*səqapah,suqapah,*səqapah,səqapah,*səqapah,səqapah,səqapah
+`to swallow (AV)',*rəməqun,rumequn,*rəməqun,rəməqun,*rəməqun,rəməqun,rəməqun
+`to swallow (PV)',*rəqənun,ruqenun,*rəqənun,rəqənun,*rəqənun,rəqənun,rəqənun
+`to swap; to change (AV)',*rəmiyux,rumiyux,*rəmiyux,rəmiyux,*rəmiyux,rəmiyux,rəmiyux
+`to swap; to change (PV)',*rəyuxun,ruyuxun,*rəyuxun,rəyuxi,*rəyuxun,rəyuxi,rəyuxun
+`to swim (AV)',*ləmaŋuy,ləmaŋuy,*ləmaŋuy,,*ləmaŋuy,,ləmaŋuy `to wash the body'
+`to take (AV)',*maŋal,maŋan,*maŋal,maŋal,*maŋal,maŋal,maŋal
+`to take (PV)',*ŋalun,ŋalun,*ŋalun,ŋalun,*ŋalun,ŋalun,ŋalun
+`to take care of s.o. (AV)',*kəməlawa,kumulawa (`to incubate'),*kəməlawa,,*kəməlawa,,kəməlawa
+`to take care of s.o. (AV)',*qəməlahaŋ,qumulahaŋ,*qəməlahaŋ,qəməlahaŋ,*qəməlahaŋ,qəməlahaŋ,qəməlahaŋ `to be careful'
+`to take care of s.o. (LV)',*kələwaan,,*kələwaan,,*kələwaan,,kələwaan
+`to take care of s.o. (PV)',*qələhaŋun,quluhaŋun,*qələhaŋun,qələhaŋun,*qələhaŋun,qələhaŋun,
+`to take; to bring (AV.imp)',*adas,adis,*adas,adas,*adas,adas,adas
+`to take; to bring (AV)',*madas,madis,*madas,madas,*madas,madas,madas
+`to take; to bring (PV)',*dəsun,desun,*dəsun,dəsun,*dəsun,dəsun,dəsun
+`to teach (AV)',*təməgəsa,tumugesa,*təməgəsa,təməsa,*təməgəsa,təməgəsa,təməgəsa
+`to tell someone to do something; to say (AV)',*məsa,mesa,*məsa,(əmca),*məsa,məsa,məsa
+`to tell someone to do something; to say (PV)',*kəsun,kesun,*kəsun,sun,*kəsun,kəsun,kəsun
+`to thank; generous (AV)',*məhuway,muhuwe,*məhuway,məhuway,*məhuway,məhuway,məhuway
+`to think (AV)',*ləməŋəluŋ,lumuŋeluŋ,*ləməŋəluŋ,ləməŋəluŋ,*ləməŋəluŋ,ləməŋəluŋ,ləməŋəluŋ
+`to think (LV)',*ləŋəluŋan,luŋuluŋan,*ləŋəluŋan,ləŋəluŋan,*ləŋəluŋan,ləŋəluŋan,ləŋəluŋan
+`to thread a needle (AV)',*ləmihug,lumihu,*ləmihug,ləmihu,*ləmihug,ləmihug,ləmihug
+`to thread a needle (PV)',*ləhugun,luhugun,*ləhugun,ləhuwi,*ləhugun,ləhugun,ləhugi
+`to throw (AV)',*qəmada,qumada,*qəmada,qəmada,*qəmada,qəmada,qəmada
+`to throw (LV/PV)',*qədaan,qudaanun,*qədaan,qədaanun,*qədaanun,qədaanun,qədaan
+`to tie (AV)',*məkuy,mekuy,*məkuy,məkuy,*məkuy,məkuy,məkuy
+`to tie (LV)',*bəkəyan,bukeyan,*bəkiyan,bəkiyan,*bəkiyan,bəkiyan,bəkiyan
+`to tread; to walk on (AV)',*qəmələqah,qumuleqah,*qəmələqah,qəmələqah,*qəmələqah,qəməqah,qəmələqah
+`to tread; to walk on (LV)',*qələqahan,quluqahan,*qələqahan,qələqahan,*qələqahan,qahun,qələqahan
+"`to trip, roll down (AV)'",*mətakur,mutakun,*mətakur,mətakur,*mətakur,mətakur,mətakur
+`to try (PV)',*təlamun,tulamun,*təlamun,təlami,*təlami,təlami,
+`to turn (AV)',*məgəriq,mugeriq,*məgəriq,məriq,*məgəriq,məgəriq,məgəriq
+`to turn (LV)',*pəgəriqan,punuguriqan,*pəgəriqan,pəriqan,*pəgəriqan,,pəgəriqan
+`to turn back (AV)',*bərinah,burinah,*bərinah,bərinah,*bərinah,bərinah,bərinah
+`to vomit (AV)',*mutaq,mutaq,*mutaq,,*mutaq,,mutaq
+`to vomit (AV)',*pəbərih,puberih,*pəbərih,pəbərih,*təbərih,təbərih,pəbərih
+`to wait (AV)',*təmaga,tumara,*təmaga,təmawa,*təmaga,təmaga,təmaga
+`to wait (PV)',*təgaun,turaun,*təgaun,,*təgaun,,təgaun
+`to walk (AV)',*məkəkəsa,mukukesa,*məkəsa,məkəsa,*məkəsa,məkəsa,məkəsa
+"`to wash (clothes, AV)'",*mahu,mahu,*mahu,mahu,*mahu,mahu,mahu
+"`to wash (clothes, LV)'",*bəhəan,peheun,*bəhaan,,*bəhaan,,bəhaan
+"`to wash (the body, AV)'",*tərima,turima,*tərima,tərima,*tərima,tərima,tərima
+"`to wash (the body, LV)'",*tərəmaan,turumaan,*tərəmaan,tərəmaan,*tərəmaan,tərəmaan,tərəmaan
+`to waste; wasteful (AV)',*səməəliq,sumeeliq,*səməəliq,səməliq,*səməəliq,səməəliq,səməəliq
+`to waste; wasteful (LV)',*səliqan,suliqan,*səliqan,səliqan,*səliqan,səliqan,səliqan
+`to wave hand; to beckon (AV)',*təmaus,taus,*təmaus,taus ,*taus,taus,təmaus
+`to wave hand; to beckon (LV)',*tawsan,tosun,*tawsan,,*tawsan,,towsan
+`to weave cloth (AV)',*təminun,tuminun,*təminun,təminun,*təminun,təminun,təminun
+`to weave cloth (PV)',*tunun,tunun,*tunun,,*tunun,,tunun
+`to work (AV)',*qəməəpah,qumeepah,*qəməəpah,qəməpah,*qəməəpah,qəməpah,qəməəpah
+`to work (PV)',*qəpahun,qupahun,*qəpahun,qəpahun,*qəpahun,qəpahun,qəpahun
+`to wrap (AV)',*ləmabu,lumabu,*ləmabu,ləmabu,*ləmabu,ləmabu,ləmabu
+`to wrap (PV)',*ləbuun,lubuun,*ləbuun,ləbuun,*ləbuun,ləbuun,ləbuun
+`to yawn (AV)',*məsu[r/w]ak,musuwak,*məsurak,məsurak,*məsurak,məsurak,məsurak
+`today; soon',*kiya,kiya,*kiya,kiya,*kiya,kiya,kiya
+`tomorrow',*kusun,kusun,*kusun,kusun,*kusun,kusun,
+`tongue',*həma,hema,*həma,həma,*həma,həma,həma
+`too; also',*uri,uri,*uri,uri,*uri,uri,uri
+`tree; wood',*qəhuni,qəhuni,*qəhuni,qəhuni,*qəhuni,qəhuni,qəhuni
+`true; correct',*balay,bale,*balay,balay,*balay,balay,balay
+`twenty',*məpusal,mupusan,*məpusal,məpusal,*əmpusal,əmpusal,əmpusal
+`two days after tomorrow',*kənətəruan,kunuturuan,*kənətəruan,kənətəruan,*kənətəruan,kənətəruan,kənətəruan
+`two days before yesterday',*cənətəruan,cunuturuan,*cənətəruan,cənətəruan,*sənəkətəruan,sənəkətəruan,sənəkətəruan
+`two',*dəha,daha,*dəha,dəha,*dəha,dəha,dəha
+`type; kind; sort',*kələgan,kulegan,*kələgan,kəluwan,*kələgan,,kələgan
+`underneath; inside',*təruma,turuma,*təruma,təruma,*təruma ,təruma ,təruma 
+`upslope',*daya,daya,*daya,,*daya,,daya
+`urine',*cəhəmu,,*cəhəmu,cəhəmu,*səhəmu,səhəmu,səhəmu
+`vegetable fern (Diplazium esculentum)',*rəmala,rumala,*rəmala,ləmala,*rəmala,ləmala,rəmala
+`village; settlement',*alaŋ,alaŋ,*alaŋ,alaŋ,*alaŋ,alaŋ,alaŋ
+`vine basket (woman)',*bəru\cvc,bururu,*bəruŋuy,bəruŋuy,*bəruŋuy,bəruŋuy,bəruŋuy
+`waist',*həwinuk,huwinuk,*həwinuk,həwinuk,*həwinuk,həginuk,həwinuk
+`wall',*qənabil,qunabin,*qənabil,qənabil,*qənabil,qənabil,qənabil
+`warm',*məuxul,muuxun,*məuxul,muxul,*muxul,muxul,məuxul
+`water',*qəsiya,qusiya,*qəsiya,qəsiya,*qəsiya,qəsiya,qəsiya
+`wet (thing)',*məhuriq,muhuriq,*məhuriq,məhuriq,*məhuriq,məhuriq,məhuriq
+`what',*məanu,maanu,*manu,manu,*manu,manu,manu
+`when (past)',*səkənuwan,sukunuwan,*səkənuwan,cənəkənuwan,*səkənuwan,səkənuwan,səkənuwan
+`when',*kənuwan,kunuwan,*kənuwan,kənuwan,*kənuwan,kənuwan,kənuwan
+`where',*inu,inu,*inu,inu,*inu,inu,inu
+`white; clean',*məbəhəgay,mubehege,*məbəhəgay,məbəhuway,*əmbəhəgay,əmbəhəgay,bəhəgay
+`who',*ima,ima,*ima,ima,*ima,ima,ima
+`wild herbs',*sama,sama,*sama,sama,*sama,sama,sama `Wild Lettuce'
+`wild strawberry',*rəhənuk,rehenuk,*rəhənuk,rəhənuk,*rəhənuk,rəhənuk,rəhəluk
+`wind',*bəgihur,bugihun,*bəgihur,buwihur; bihur,*bəgihur,bəgihur,bəgihur
+`wine; alcoholic drink',*sinaw,sino,*sinaw,sinaw,*sinaw,sinaw,sinaw
+`winter',*misan,misan,*misan,misan,*misan,misan,misan
+`woman; wife',*(mə)qədil,muqedin `woman'; qedin `wife',*qəridil,qəridil,*qəriɟil,qəriɟil,
+`worm',*bicur,bicun,*bicur,bicur,*bisur,bisur,bisur
+`wound; cut',*luqih,luqah,*luqih,luqah,*luqih,luqih,luqih
+`yarn',*waray,ware,*waray,waray,*waray,waray,waray
+`yesterday',*cəhiga,ciga,*cəhiga,ciwa,*səhiga,səhiga,səhiga
+`young man',*risaw,riso,*risaw,risaw,*risaw,risaw,risaw
+`young woman',*wəəwa,weewa; ewa,*wəuwa,wouwa,*wauwa,wauwa,wauwa
+`younger sibling',*səwayi,suwayi,*səwayi,səwayi,*səwayi,səwayi,səwayi
